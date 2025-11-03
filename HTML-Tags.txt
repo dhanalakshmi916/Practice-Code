@@ -1,0 +1,54 @@
+   #HTML TAGS
+HTML-The html element represents the root of an HTML document.
+<br>Inserts a line break
+<hr>Inserts a horizontal line (thematic break)
+<img>Displays an image
+<a href>hyperlink
+<tr>table row
+<th>table headname
+<td>table data
+<img src> src = source
+<html>Defines the root of an HTML page
+<form>The form element represents a collection of form-elements
+<lable>name or describe
+for attribute
+<input>Creates a box or button where the user can enter data.
+ type Attribute
+  #CSS TAGS
+<div> is mainly used for layout and styling purposes
+Universal Selector (*) – selects all elements
+Class Selector (.classname) – selects elements with a class
+ID Selector (#idname) – selects one unique element by ID
+Group Selector (,) – styles multiple selectors together
+Pseudo-class (:state) – styles based on element’s state
+Pseudo-element (::part) – styles part of an element
+ 
+#javascript
+*JavaScript means a programming language that brings life to web pages by making them dynamic, interactive, and smart.
+*Interactivity means the ability of a website, app, or system to respond to user actions —
+The id="myText" gives it a unique name so JavaScript can find and change it later.
+A function in JavaScript is a block of code that performs a specific task — and you can reuse it whenever you want.
+*.innerHTMl
+
+“Change or read the content inside that element.”
+
+
+
+
+* programs
+*Square Pro
+
+function square(n) {
+  return n * n;
+}
+
+*EVEN
+function isEven(num) {
+    return num % 2 === 0;
+
+*even exp
+onst isEvenExp = function(num) {
+    return num % 2 === 0;
+
+#DOM 
+Document Object Model → tree-like structure representing an HTML document.
